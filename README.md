@@ -4,6 +4,12 @@
 
 它不会占着桌面，也不会逼你改工作方式，只是在合适的时候提醒你停一下、歇一会儿，再继续下一轮专注。
 
+<p align="center">
+  <img src="./screenshot-main.png" alt="主界面截图" width="380" align="top" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="./screenshot-settings.png" alt="设置页截图" width="380" align="top" />
+</p>
+
 ## 适合谁
 
 - 长时间坐在电脑前工作的人
